@@ -1,1 +1,1 @@
-# slack-translate-me
+# Translate Me for Slack
